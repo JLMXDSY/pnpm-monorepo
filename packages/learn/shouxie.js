@@ -363,8 +363,3 @@ function flatObject(object) {
 }
 
 console.log(flatObject(o))
-
-const a = 1111
-const b = 2222
-constc = 3333
-constd = 4444
