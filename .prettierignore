@@ -1,5 +1,5 @@
-coverage
-public
 dist
+*.md
+*.html
 pnpm-lock.yaml
 pnpm-workspace.yaml
