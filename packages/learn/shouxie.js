@@ -9,7 +9,7 @@ function debounce(fn, delay = 300) {
   }
 }
 // const zx = setInterval(debounce((a, b, c) => {
-//     console.log('执行防抖函数', a, b, c)
+//   console.log('执行防抖函数', a, b, c)
 // }), 400, 1, 2, 3)
 
 // 手写节流函数 在时间段ns内多次触发只执行一次  例：监听滚动

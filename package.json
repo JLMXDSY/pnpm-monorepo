@@ -18,6 +18,7 @@
   },
   "type": "module",
   "dependencies": {
+    "three": "^0.164.0",
     "vue": "^3.4.24"
   },
   "devDependencies": {

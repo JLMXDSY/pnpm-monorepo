@@ -17,9 +17,9 @@ export function rotate1(arr: number[], k: number) {
   return arr
 }
 const res1 = rotate1(arr, 100000)
-// console.time()
-// console.log(res1, '----111')
-// console.timeEnd()
+console.time()
+console.log(res1, '----111')
+console.timeEnd()
 // 第二种
 const arr2 = [1, 2, 3, 4, 5, 6]
 export function rotate2(arr: number[], k: number) {
